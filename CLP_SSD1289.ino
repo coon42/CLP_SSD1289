@@ -18,6 +18,9 @@
 // WR: PL1
 // CS: PL3
 // RESET: PL0 
+// D0  - D7:  PK_0 - PK_7
+// D8  - D11  PE_0 - PE_3
+// D12 - D15: PE_4 - PE_7
 
 #include "UTFT.h"
 
